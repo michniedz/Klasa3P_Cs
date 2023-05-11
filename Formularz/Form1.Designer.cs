@@ -245,7 +245,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Form1";
-            Text = "Formularz 1";
+            Text = "Formularz";
             ResumeLayout(false);
             PerformLayout();
         }
